@@ -1,0 +1,8 @@
+
+
+// exports.createPostValidator = () => {
+//     // title
+    
+//     // body
+    
+// };
